@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "2ff03518-3610-42cf-905e-525c4c44dc1f",
-            "Value": {
-                "id": "de937cba-7b69-4c10-95eb-a39057318f0f",
-                "resourcePath": "sprites\/toonlink\/toonlink.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3274be3d-6311-4b4f-ad8f-0e7e6b8069c0",
             "Value": {
                 "id": "b8daf333-7ac9-4468-9f24-caf868347364",
@@ -99,14 +91,6 @@
             "Value": {
                 "id": "5038c850-9f6b-4f7e-ad8b-b3149d90c908",
                 "resourcePath": "sprites\/BreakoutTITLE\/BreakoutTITLE.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "36f88502-b1fb-475c-9a5e-344bd90a8ce3",
-            "Value": {
-                "id": "aa63a34d-8864-4def-b4cf-3139e182d39a",
-                "resourcePath": "sprites\/mario\/mario.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -271,14 +255,6 @@
             }
         },
         {
-            "Key": "8f55759c-68ba-482f-b6d8-614a4a4cec02",
-            "Value": {
-                "id": "fe151429-9082-4399-8780-e8b7dc27800b",
-                "resourcePath": "objects\/obj_toonlink\/obj_toonlink.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "924ddaaa-8a57-4faa-848d-6b311abdd08a",
             "Value": {
                 "id": "433f33fe-52d5-4e88-ad03-331befc68e70",
@@ -359,27 +335,11 @@
             }
         },
         {
-            "Key": "b607b832-b31d-44a3-9b58-a3e749dba6ed",
-            "Value": {
-                "id": "138ed319-5eb5-416c-8918-977bf3fa0056",
-                "resourcePath": "objects\/obj_kirby\/obj_kirby.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b8b53e64-ac7c-4086-94f5-7d5ae6b57600",
             "Value": {
                 "id": "fdfd60ee-aa46-496c-b246-3b81842fe7ce",
                 "resourcePath": "sprites\/spr_border\/spr_border.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b9c30305-bab6-4c7c-bab6-1b3fd4a46798",
-            "Value": {
-                "id": "c21434cf-7a12-40bf-ba2a-55c56975e2b8",
-                "resourcePath": "objects\/obj_pikachu\/obj_pikachu.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -404,14 +364,6 @@
                 "id": "afea2c60-0d1b-4daa-bd76-05f13952e2c2",
                 "resourcePath": "rooms\/GameRoom\/GameRoom.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cb6554d0-e9de-4552-9371-193836b4ea2e",
-            "Value": {
-                "id": "ada7c191-3c69-418f-895f-5614762ff2e8",
-                "resourcePath": "sprites\/kirby\/kirby.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -460,14 +412,6 @@
                 "id": "e4a1ae60-bfb6-4846-a12f-1603e260e644",
                 "resourcePath": "rooms\/IntroScreenRoom\/IntroScreenRoom.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "dceff419-d16e-427d-9e08-c831f456dcda",
-            "Value": {
-                "id": "cfabcd72-4fe8-40f4-88af-b6fcb1c5437c",
-                "resourcePath": "sprites\/pikachu\/pikachu.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -547,14 +491,6 @@
             "Value": {
                 "id": "cef1f91f-017b-4124-ae32-5eb113558fa6",
                 "resourcePath": "objects\/BackOBJ\/BackOBJ.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fabd9d58-fc46-4bb8-93c4-2e10bf6ae1c6",
-            "Value": {
-                "id": "4532bcdc-298c-45a2-9d9c-2d089a4543fe",
-                "resourcePath": "objects\/obj_mario\/obj_mario.yy",
                 "resourceType": "GMObject"
             }
         }
