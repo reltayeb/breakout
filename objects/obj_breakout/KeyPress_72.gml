@@ -8,6 +8,6 @@ room_goto(RulesRoom);
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 3EAD1DF5
+/// @DnDDisabled : 1
 /// @DnDArgument : "soundid" "BlockBop"
 /// @DnDSaveInfo : "soundid" "4bf452ed-fe8d-4518-a56a-d5fbca29417b"
-audio_play_sound(BlockBop, 0, 0);

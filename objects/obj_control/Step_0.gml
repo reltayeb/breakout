@@ -1,5 +1,5 @@
 if(instance_number(obj_brick) <= 0) {
-	audio_stop_sound(GameRoomMusic);
+	//audio_stop_sound(GameRoomMusic);
 	room_goto_next();
 }
 
