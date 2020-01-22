@@ -426,7 +426,7 @@
             "Key": "b8b53e64-ac7c-4086-94f5-7d5ae6b57600",
             "Value": {
                 "id": "fdfd60ee-aa46-496c-b246-3b81842fe7ce",
-                "resourcePath": "sprites\/spr_border\/spr_border.yy",
+                "resourcePath": "sprites\/spr_missileENEMY\/spr_missileENEMY.yy",
                 "resourceType": "GMSprite"
             }
         },
