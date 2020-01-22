@@ -1,15 +1,14 @@
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 440FD06D
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "IntroScreenMusic"
-/// @DnDSaveInfo : "soundid" "844253cc-5482-4091-b435-0b325da712c1"
-
+/// @DnDHash : 27D594A6
+/// @DnDArgument : "soundid" "INTROSCREEN_TEMP"
+/// @DnDSaveInfo : "soundid" "9c0efa97-bfc7-4ab1-b1d6-1420fda1c9ca"
+audio_stop_sound(INTROSCREEN_TEMP);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 05D216F5
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "IntroScreenMusic"
+/// @DnDHash : 69747104
+/// @DnDArgument : "soundid" "INTROSCREEN_TEMP"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "844253cc-5482-4091-b435-0b325da712c1"
+/// @DnDSaveInfo : "soundid" "9c0efa97-bfc7-4ab1-b1d6-1420fda1c9ca"
+audio_play_sound(INTROSCREEN_TEMP, 0, 1);

@@ -1,23 +1,14 @@
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 5969A3BD
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "GameRoomMusic"
-/// @DnDSaveInfo : "soundid" "9fd318e6-ba6a-4dc0-99d1-be59a6f8abac"
-
-
-/// @DnDAction : YoYo Games.Audio.Stop_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 6DD98571
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "IntroScreenMusic"
-/// @DnDSaveInfo : "soundid" "844253cc-5482-4091-b435-0b325da712c1"
-
+/// @DnDHash : 186A8F1A
+/// @DnDArgument : "soundid" "sd_bk"
+/// @DnDSaveInfo : "soundid" "360d51c6-0eaa-4971-a211-ab52f14c2b67"
+audio_stop_sound(sd_bk);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 25FC7DA4
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "VictoryScreenMusic"
+/// @DnDHash : 70D4190A
+/// @DnDArgument : "soundid" "sd_win"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "442f4a0e-e05f-48da-84da-6095657cdecb"
+/// @DnDSaveInfo : "soundid" "ae430c91-d430-43fd-b9dc-d8ffa565c2f8"
+audio_play_sound(sd_win, 0, 1);

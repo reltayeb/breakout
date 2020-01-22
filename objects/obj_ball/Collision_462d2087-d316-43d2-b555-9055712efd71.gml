@@ -5,4 +5,4 @@ if(speed < 7) speed += 0.5;
 
 instance_destroy(other);
 
-//audio_play_sound(BlockBop, 0, 0);
+audio_play_sound(blockbop, 0, 0);

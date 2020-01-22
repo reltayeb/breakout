@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "534ceb36-1136-469a-a2cc-3bb85077b09a",
+            "Value": {
+                "id": "6fa2ee87-7020-4c61-9fcf-55bf52e76554",
+                "resourcePath": "sounds\/blockbop\/blockbop.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "53c12733-a02f-4657-86a2-84e84b1a1b13",
             "Value": {
                 "id": "507f7f4e-3888-4ad6-8ca9-084f24ad5a4d",
@@ -292,6 +300,14 @@
                 "id": "d838ed42-f123-4659-b984-c18c713875d3",
                 "resourcePath": "objects\/obj_bat\/obj_bat.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9c0efa97-bfc7-4ab1-b1d6-1420fda1c9ca",
+            "Value": {
+                "id": "b2415e8f-2866-4553-8177-e3d555c57b56",
+                "resourcePath": "sounds\/INTROSCREEN_TEMP\/INTROSCREEN_TEMP.yy",
+                "resourceType": "GMSound"
             }
         },
         {
