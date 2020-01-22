@@ -362,7 +362,7 @@
             "Key": "9cdf08f7-6a55-4dc7-b93f-8281a7e55912",
             "Value": {
                 "id": "fad62a22-c1c3-4a89-ae0a-768d9b722adb",
-                "resourcePath": "objects\/obj_border\/obj_border.yy",
+                "resourcePath": "objects\/obj_missileENEMY\/obj_missileENEMY.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -487,6 +487,22 @@
             }
         },
         {
+            "Key": "ce41060a-0ede-45bc-9fd4-d776a877bf63",
+            "Value": {
+                "id": "e5a8f47c-26d6-4a33-b647-2f26b3eecc6b",
+                "resourcePath": "sprites\/rocket_bound\/rocket_bound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cfeceda6-6c38-4db3-8492-35afa55168a4",
+            "Value": {
+                "id": "726830ff-76f4-4361-a494-0fb6b00dca17",
+                "resourcePath": "objects\/OBJ_MISSILE_MAKER\/OBJ_MISSILE_MAKER.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d063569c-321e-4066-9b73-080c2505fcd5",
             "Value": {
                 "id": "69dd4ee1-e64f-4f44-9d67-3ec9f029cc92",
@@ -595,6 +611,14 @@
             "Value": {
                 "id": "cef1f91f-017b-4124-ae32-5eb113558fa6",
                 "resourcePath": "objects\/BackOBJ\/BackOBJ.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb76290b-6977-454b-9146-f7385ee2093b",
+            "Value": {
+                "id": "8c3117e5-95d6-4c2d-b343-b815beb1fcc2",
+                "resourcePath": "objects\/obj_rkt_bound\/obj_rkt_bound.yy",
                 "resourceType": "GMObject"
             }
         }
