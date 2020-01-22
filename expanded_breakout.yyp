@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "176423fe-73ae-4ff4-aa4c-939aa8ee9974",
+            "Value": {
+                "id": "5e07b8cc-a86f-4b4f-8cc1-5cfcbaa412de",
+                "resourcePath": "objects\/obj_ball_still\/obj_ball_still.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19740b52-97f4-44f4-88e1-5e35787c923a",
             "Value": {
                 "id": "d3b984c9-251f-4902-b618-6ae4d3de8e02",
@@ -220,6 +228,14 @@
                 "id": "61725485-e8f3-4f9e-ae12-1a52ed3019d6",
                 "resourcePath": "views\/5920f008-885d-489c-818f-8341b4500ae3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d098b16-3ca7-4008-8520-afbede382700",
+            "Value": {
+                "id": "64ed6579-52be-4622-9902-70f75250aae8",
+                "resourcePath": "sprites\/spr_shipball_still\/spr_shipball_still.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
