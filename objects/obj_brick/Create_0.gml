@@ -1,1 +1,1 @@
-image_blend = choose(c_teal, c_orange, c_yellow, c_fuchsia, c_blue, c_white, c_purple);
+image_blend = choose(c_orange, c_yellow, c_red, c_gray);

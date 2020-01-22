@@ -11,7 +11,7 @@ if(bbox_top < 0){
 if(bbox_bottom > room_height){
 	global.player_lives -= 1;
 		instance_destroy();
-		audio_play_sound(OffScreen, 0, 0);
+		audio_play_sound(sd_death, 0, 0);
 	
 	if(global.player_lives <= 0){
 		obj_control.gameover = true;
