@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "d063569c-321e-4066-9b73-080c2505fcd5",
+            "Value": {
+                "id": "69dd4ee1-e64f-4f44-9d67-3ec9f029cc92",
+                "resourcePath": "sounds\/sd_win_V2\/sd_win_V2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d14bec86-37b0-4b45-8345-24164f27c826",
             "Value": {
                 "id": "8e661cfd-a09d-4837-ae22-143976dc8d83",
