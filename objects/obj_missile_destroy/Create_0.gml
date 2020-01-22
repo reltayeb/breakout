@@ -1,0 +1,2 @@
+instance_destroy(OBJ_MISSILE_MAKER);
+instance_destroy(obj_missileENEMY);

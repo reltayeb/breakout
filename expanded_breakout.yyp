@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "6b2a9aee-ed34-4faa-ba9a-ce1cdbbb0a5f",
+            "Value": {
+                "id": "072646a7-6e55-47fe-85ca-5a3a5c17b56d",
+                "resourcePath": "objects\/obj_missile_destroy\/obj_missile_destroy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6d286661-277a-4987-be9b-a044c62f60a0",
             "Value": {
                 "id": "5f462bc5-a35f-4184-9679-cee07545697d",
