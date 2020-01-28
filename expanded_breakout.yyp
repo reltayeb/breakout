@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "556fe57b-5650-41da-8ef2-e6149e2ee19b",
+            "Value": {
+                "id": "4b4f3015-a37c-43d9-bff6-3d5f28115cd6",
+                "resourcePath": "sounds\/MemeMASHUP\/MemeMASHUP.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "559783ad-9582-4c66-abd3-4384536b4478",
             "Value": {
                 "id": "41a3f0d1-7613-4b87-b6e6-f910327428c8",
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "8c87d321-2042-4978-b662-50f89893a6aa",
+            "Value": {
+                "id": "c0dde60e-06c1-4146-b221-87df0b8c3d66",
+                "resourcePath": "objects\/LeverLvl5\/LeverLvl5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ddd1cb5-65b8-4560-9d36-f2be1a5afda8",
             "Value": {
                 "id": "a991431c-f89c-49ea-90a0-58308aea7c10",
@@ -535,6 +551,14 @@
             }
         },
         {
+            "Key": "acc52010-cca6-485a-a865-b79ada1851cb",
+            "Value": {
+                "id": "3459c2b5-765f-49fa-83ba-a14466ae487b",
+                "resourcePath": "sounds\/catMeow\/catMeow.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ad008c70-03fc-4343-8b0a-a1d81c865468",
             "Value": {
                 "id": "9444db23-7dca-4f4a-b10c-6bc94d8f8508",
@@ -575,6 +599,14 @@
             }
         },
         {
+            "Key": "b87274ab-8b60-42fa-927f-e3183254c173",
+            "Value": {
+                "id": "3572c2b5-92a2-4ca3-b8f4-6ca50a3e88e6",
+                "resourcePath": "rooms\/Lvl5IntroRoom\/Lvl5IntroRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b8b53e64-ac7c-4086-94f5-7d5ae6b57600",
             "Value": {
                 "id": "fdfd60ee-aa46-496c-b246-3b81842fe7ce",
@@ -595,6 +627,14 @@
             "Value": {
                 "id": "c7185caf-90c4-4274-bb92-6d2a24e1897f",
                 "resourcePath": "objects\/obj_brick\/obj_brick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bdbb03f0-304d-430f-99c3-7526f4515776",
+            "Value": {
+                "id": "26f06d12-e9aa-4e5a-99af-e79cf34e4614",
+                "resourcePath": "objects\/obj_lvl5Music\/obj_lvl5Music.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -639,6 +679,14 @@
             }
         },
         {
+            "Key": "c9f7792c-4c87-417c-a212-d9fd2b4158c9",
+            "Value": {
+                "id": "ea35fd71-3c93-4d55-ab12-f06c9bd3af43",
+                "resourcePath": "sounds\/sd_alertMEME\/sd_alertMEME.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c8d7315c-8b40-4a68-b2cd-338ec1ab936a",
@@ -671,6 +719,14 @@
             }
         },
         {
+            "Key": "cf0b914f-4c61-4e70-912b-d9f16eb169ed",
+            "Value": {
+                "id": "6aa647e4-30f7-4078-a7ec-f5084aeca560",
+                "resourcePath": "sounds\/sd_deathMEME\/sd_deathMEME.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cfeceda6-6c38-4db3-8492-35afa55168a4",
             "Value": {
                 "id": "726830ff-76f4-4361-a494-0fb6b00dca17",
@@ -695,6 +751,14 @@
             }
         },
         {
+            "Key": "d2c63883-d47d-421a-b171-e3b8698c657f",
+            "Value": {
+                "id": "1bc0d336-fc99-4a37-892b-d464942443cf",
+                "resourcePath": "objects\/obj_lvl1_4Music\/obj_lvl1_4Music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d727d7c6-6e58-403b-bc4f-37f7054d8707",
             "Value": {
                 "id": "ef29a39d-6379-434c-b840-295c2e0be428",
@@ -708,6 +772,14 @@
                 "id": "e4a1ae60-bfb6-4846-a12f-1603e260e644",
                 "resourcePath": "rooms\/IntroScreenRoom\/IntroScreenRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "da64a382-1082-4a67-9488-fe5df4417d3b",
+            "Value": {
+                "id": "926f5300-5d25-47b8-9cd8-3567d90ac663",
+                "resourcePath": "sounds\/blockbopMEME\/blockbopMEME.yy",
+                "resourceType": "GMSound"
             }
         },
         {
