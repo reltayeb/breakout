@@ -42,7 +42,7 @@
             "Key": "03b141bc-63c5-41f2-979c-d774ae9c6164",
             "Value": {
                 "id": "3505a2f2-60be-4b06-838b-5a848f1865ad",
-                "resourcePath": "objects\\obj_brick3\\obj_brick3.yy",
+                "resourcePath": "objects\/obj_brick3\/obj_brick3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -516,6 +516,14 @@
                 "id": "c7185caf-90c4-4274-bb92-6d2a24e1897f",
                 "resourcePath": "objects\/obj_brick\/obj_brick.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c03d39e8-e7fe-4cb9-b23a-1ef2d62d74cf",
+            "Value": {
+                "id": "d6f274c3-0232-4ad1-9ca3-4160734a1d38",
+                "resourcePath": "sprites\/spr_Rodger\/spr_Rodger.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
