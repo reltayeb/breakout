@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "9a57e8be-98b9-44f6-91e2-72f3198848ac",
+            "Value": {
+                "id": "4084f9a2-dc8c-4e01-977c-208e0a3a5237",
+                "resourcePath": "views\/9a57e8be-98b9-44f6-91e2-72f3198848ac.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9c0efa97-bfc7-4ab1-b1d6-1420fda1c9ca",
             "Value": {
                 "id": "b2415e8f-2866-4553-8177-e3d555c57b56",
@@ -551,6 +559,14 @@
             }
         },
         {
+            "Key": "b02c55f7-ba77-4ea7-99cf-c383d4cacdb1",
+            "Value": {
+                "id": "78b17869-9f33-487c-af5c-c82ae95aec58",
+                "resourcePath": "objects\/obj_brick4\/obj_brick4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b2f2f39d-a15c-40ba-8ca0-7129b8d3c0c2",
             "Value": {
                 "id": "b089e120-4072-4054-8245-7fb3002b2e47",
@@ -596,6 +612,14 @@
                 "id": "352e5f43-d17f-4a96-b5dc-8c8337597795",
                 "resourcePath": "sounds\/sd_death\/sd_death.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c4221f4c-4944-4e6f-887c-69f5aa7a670d",
+            "Value": {
+                "id": "77f2b0f5-4ae9-4833-8473-bfaad2b1c5f2",
+                "resourcePath": "objects\/obj_brick5\/obj_brick5.yy",
+                "resourceType": "GMObject"
             }
         },
         {
