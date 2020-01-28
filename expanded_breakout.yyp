@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0e620e0c-590d-4db4-ac6f-398c8ea4e69f",
+            "Value": {
+                "id": "513e0a72-6ad8-4e65-9465-4eaae4ff38f3",
+                "resourcePath": "objects\/obj_faceplanet\/obj_faceplanet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fd7b821-a0fc-44c4-9494-8d09e701dbbf",
             "Value": {
                 "id": "305d7881-8176-4bac-886e-c812e90e04a8",
@@ -79,6 +87,14 @@
             }
         },
         {
+            "Key": "139469a4-b652-43ab-aae3-3babc0b1d161",
+            "Value": {
+                "id": "4eb14281-e7c3-406b-a8ea-e57016035b00",
+                "resourcePath": "sprites\/lvl5bk\/lvl5bk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "176423fe-73ae-4ff4-aa4c-939aa8ee9974",
             "Value": {
                 "id": "5e07b8cc-a86f-4b4f-8cc1-5cfcbaa412de",
@@ -92,6 +108,22 @@
                 "id": "d3b984c9-251f-4902-b618-6ae4d3de8e02",
                 "resourcePath": "sounds\/sd_powerup\/sd_powerup.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1b263c9f-6980-4fb9-9aea-9f8cb0e1dab0",
+            "Value": {
+                "id": "35eb62a4-cd9f-423d-bda3-dae6ccdb75f7",
+                "resourcePath": "sprites\/filthyfrankboat\/filthyfrankboat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "23be5d69-3bfc-4554-812c-7c292d50cfa3",
+            "Value": {
+                "id": "60a8c1e7-cc77-4955-8d11-1e023182b91b",
+                "resourcePath": "sprites\/nyancat\/nyancat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +423,14 @@
             }
         },
         {
+            "Key": "9636d278-b56c-4ae8-b635-884757d8081c",
+            "Value": {
+                "id": "02231d74-f1f6-4b21-b6b6-a48185e32aef",
+                "resourcePath": "objects\/obj_filthyfrank\/obj_filthyfrank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "99ac0851-aaaf-4e5e-91c6-4e804e10ba8e",
             "Value": {
                 "id": "d838ed42-f123-4659-b984-c18c713875d3",
@@ -439,6 +479,14 @@
             }
         },
         {
+            "Key": "a3b8699d-511f-4306-8a29-93e529055ca1",
+            "Value": {
+                "id": "4fc1528c-2651-4618-89cf-8b1e9032663c",
+                "resourcePath": "objects\/obj_nyancat\/obj_nyancat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a4bab806-e75f-4ae2-90a1-2dce83e46154",
             "Value": {
                 "id": "c54b64e6-da06-4322-acf6-6f3af7571308",
@@ -476,6 +524,14 @@
                 "id": "84eea3c2-da99-44fc-ab57-ee232fe246cf",
                 "resourcePath": "views\/ab97ff16-32c8-41c8-bc49-9e65b8d8d078.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad008c70-03fc-4343-8b0a-a1d81c865468",
+            "Value": {
+                "id": "9444db23-7dca-4f4a-b10c-6bc94d8f8508",
+                "resourcePath": "sprites\/faceplanet\/faceplanet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
