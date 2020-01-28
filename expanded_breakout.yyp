@@ -162,7 +162,7 @@
             "Key": "3a63dfd0-2fc1-44be-9e24-86bc8786d14c",
             "Value": {
                 "id": "e8d0c577-84b6-46d7-bc1c-e536e851375e",
-                "resourcePath": "sprites\\spr_lvl_bk2\\spr_lvl_bk2.yy",
+                "resourcePath": "sprites\/spr_lvl_bk2\/spr_lvl_bk2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -275,6 +275,14 @@
             "Value": {
                 "id": "a0948c39-12d7-4a55-95ee-92377beaad0d",
                 "resourcePath": "objects\/obj_instructions\/obj_instructions.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "685daa0f-8d25-438b-93c6-6531c2488b90",
+            "Value": {
+                "id": "1c8283bf-1b51-412d-87bc-70e74503fbbd",
+                "resourcePath": "objects\/obj_brick2\/obj_brick2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -410,7 +418,7 @@
             "Key": "a27fc163-26c3-4062-bc10-9b0905674d3d",
             "Value": {
                 "id": "b83b0bb5-977e-4908-af7d-1b29be61a381",
-                "resourcePath": "sprites\\spr_lvl_bk3\\spr_lvl_bk3.yy",
+                "resourcePath": "sprites\/spr_lvl_bk3\/spr_lvl_bk3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -474,7 +482,7 @@
             "Key": "b2f2f39d-a15c-40ba-8ca0-7129b8d3c0c2",
             "Value": {
                 "id": "b089e120-4072-4054-8245-7fb3002b2e47",
-                "resourcePath": "sprites\\spr_lvl_bk\\spr_lvl_bk.yy",
+                "resourcePath": "sprites\/spr_lvl_bk\/spr_lvl_bk.yy",
                 "resourceType": "GMSprite"
             }
         },
