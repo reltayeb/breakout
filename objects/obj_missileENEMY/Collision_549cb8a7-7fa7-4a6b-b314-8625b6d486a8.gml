@@ -22,3 +22,5 @@ global.player_lives -= 1;
 	
 	instance_create_layer(xstart, ystart, "Instances", obj_ball);
 	}
+	
+audio_stop_sound(sd_alert);
