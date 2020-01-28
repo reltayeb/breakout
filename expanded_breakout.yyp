@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03b141bc-63c5-41f2-979c-d774ae9c6164",
+            "Value": {
+                "id": "3505a2f2-60be-4b06-838b-5a848f1865ad",
+                "resourcePath": "objects\\obj_brick3\\obj_brick3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "04bd3c26-401e-4ea0-9fac-38f33b5dbce8",
             "Value": {
                 "id": "e9a7533e-a2c4-4782-8f76-71816411fac8",

@@ -1,0 +1,1 @@
+image_blend = choose(c_olive, c_orange, c_yellow);
