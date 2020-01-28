@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "347696be-e339-42a0-8ebd-e7e250563131",
+            "Value": {
+                "id": "dea0c4f4-7faa-4262-9f6c-9afab0f45197",
+                "resourcePath": "rooms\/GameRoom5\/GameRoom5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "360d51c6-0eaa-4971-a211-ab52f14c2b67",
             "Value": {
                 "id": "1a180d97-6eae-4b07-9086-80b49e01a95f",
@@ -244,6 +252,14 @@
                 "id": "64ed6579-52be-4622-9902-70f75250aae8",
                 "resourcePath": "sprites\/spr_shipball_still\/spr_shipball_still.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f5f0db9-3bf6-4369-b1fa-0ab6de05aa4d",
+            "Value": {
+                "id": "91d425af-9be6-44ad-9f87-9b5a4506b334",
+                "resourcePath": "rooms\/GameRoom4\/GameRoom4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -434,7 +450,7 @@
             "Key": "ae7eca50-78be-436d-99c6-073e324ec895",
             "Value": {
                 "id": "a36d7c9b-b3a6-406e-b56e-277c756de901",
-                "resourcePath": "sounds\\sd_alert\\sd_alert.yy",
+                "resourcePath": "sounds\/sd_alert\/sd_alert.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -444,6 +460,14 @@
                 "id": "fdfd60ee-aa46-496c-b246-3b81842fe7ce",
                 "resourcePath": "sprites\/spr_missileENEMY\/spr_missileENEMY.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba676ded-71c9-4e62-a942-b9d0e0ca5acd",
+            "Value": {
+                "id": "b0a2a8fa-a847-44c1-8708-dd3ad127285e",
+                "resourcePath": "rooms\/GameRoom2\/GameRoom2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -474,7 +498,7 @@
             "Key": "c9cd051b-a3d4-4557-b860-0455e2618d4c",
             "Value": {
                 "id": "afea2c60-0d1b-4daa-bd76-05f13952e2c2",
-                "resourcePath": "rooms\/GameRoom\/GameRoom.yy",
+                "resourcePath": "rooms\/GameRoom3\/GameRoom3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -628,6 +652,14 @@
                 "id": "cef1f91f-017b-4124-ae32-5eb113558fa6",
                 "resourcePath": "objects\/BackOBJ\/BackOBJ.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f9629eea-a9d8-4710-9a0c-657c556f5dba",
+            "Value": {
+                "id": "5c041bc5-71b3-4a06-b4e0-5e480def2239",
+                "resourcePath": "rooms\/GameRoom1\/GameRoom1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
