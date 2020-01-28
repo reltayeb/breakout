@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "53536e7c-f0fc-417f-aa38-86b2fc23d27f",
+            "Value": {
+                "id": "fbaff731-7188-4314-ae03-8c735c10b87d",
+                "resourcePath": "objects\/obj_rodger\/obj_rodger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53c12733-a02f-4657-86a2-84e84b1a1b13",
             "Value": {
                 "id": "507f7f4e-3888-4ad6-8ca9-084f24ad5a4d",
