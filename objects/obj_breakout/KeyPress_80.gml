@@ -8,6 +8,6 @@ audio_stop_sound(INTROSCREEN_TEMP);
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 72CE6825
-/// @DnDArgument : "room" "GameRoom3"
-/// @DnDSaveInfo : "room" "c9cd051b-a3d4-4557-b860-0455e2618d4c"
-room_goto(GameRoom3);
+/// @DnDArgument : "room" "GameRoom5"
+/// @DnDSaveInfo : "room" "347696be-e339-42a0-8ebd-e7e250563131"
+room_goto(GameRoom5);
