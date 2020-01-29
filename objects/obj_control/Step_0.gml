@@ -4,6 +4,7 @@ if((instance_number(obj_brick) <= 0) && (instance_number(obj_brick2) <= 0) && (i
 	audio_stop_sound(MemeMASHUP);
 	instance_destroy(OBJ_MISSILE_MAKER);
 	instance_destroy(obj_missileENEMY);
+	audio_stop_sound(sd_alert);
 	room_goto_next();
 }
 
