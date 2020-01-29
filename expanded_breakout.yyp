@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0c87cc28-7fb7-4da0-ad65-5fb4e8c229f8",
+            "Value": {
+                "id": "d961d4a8-7c69-4c35-ae6e-66633c129e5e",
+                "resourcePath": "rooms\/Lvl4IntroRoom\/Lvl4IntroRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e620e0c-590d-4db4-ac6f-398c8ea4e69f",
             "Value": {
                 "id": "513e0a72-6ad8-4e65-9465-4eaae4ff38f3",
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "6cf22818-98ba-417c-9849-cf23c0000c70",
+            "Value": {
+                "id": "b312fe85-d381-4120-841d-ad35405d9ca0",
+                "resourcePath": "rooms\/Lvl2IntroRoom\/Lvl2IntroRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6d286661-277a-4987-be9b-a044c62f60a0",
             "Value": {
                 "id": "5f462bc5-a35f-4184-9679-cee07545697d",
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "8ab573c5-41c6-4320-b43c-9d2a5cfcfe88",
+            "Value": {
+                "id": "e7cdfb78-291f-475d-a9e6-b263a52c4622",
+                "resourcePath": "rooms\/Lvl5IntroRoom\/Lvl5IntroRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8bf15dda-2e7d-443f-a2ec-0a753d1fd339",
             "Value": {
                 "id": "8e4703b5-6866-4e77-95f8-d5fc8d44dbd6",
@@ -460,6 +484,14 @@
                 "id": "c0dde60e-06c1-4146-b221-87df0b8c3d66",
                 "resourcePath": "objects\/LeverLvl5\/LeverLvl5.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8c89e86e-aeb2-44f2-8055-1ce8ef11a083",
+            "Value": {
+                "id": "58a82993-f7a5-4757-813d-f9a9bb9bdfd7",
+                "resourcePath": "rooms\/Lvl3IntroRoom\/Lvl3IntroRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -500,6 +532,14 @@
                 "id": "4084f9a2-dc8c-4e01-977c-208e0a3a5237",
                 "resourcePath": "views\/9a57e8be-98b9-44f6-91e2-72f3198848ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ad3de71-ea6c-4236-a7ce-54e61f480627",
+            "Value": {
+                "id": "b68cc901-b321-4c03-ad55-e83927b0d414",
+                "resourcePath": "sprites\/LevelReg1\/LevelReg1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -564,6 +604,14 @@
                 "id": "c803a3ac-d1d9-4514-a775-e8515c7ede22",
                 "resourcePath": "views\/a6c47d4a-f9f1-4c96-9926-e53974fe4822.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a758ee70-b3ed-49e2-8988-9a177ee0ae54",
+            "Value": {
+                "id": "c5d7ea06-a4e9-4807-886e-b914d227c79b",
+                "resourcePath": "sprites\/sprite29\/sprite29.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -642,7 +690,7 @@
             "Key": "b87274ab-8b60-42fa-927f-e3183254c173",
             "Value": {
                 "id": "3572c2b5-92a2-4ca3-b8f4-6ca50a3e88e6",
-                "resourcePath": "rooms\/Lvl5IntroRoom\/Lvl5IntroRoom.yy",
+                "resourcePath": "rooms\/Lvl1IntroRoom\/Lvl1IntroRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
