@@ -19,20 +19,6 @@ audio_stop_sound(sd_alert);
 /// @DnDSaveInfo : "soundid" "556fe57b-5650-41da-8ef2-e6149e2ee19b"
 audio_stop_sound(MemeMASHUP);
 
-/// @DnDAction : YoYo Games.Audio.Stop_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 0B84FBE0
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "GameRoomMusic"
-
-
-/// @DnDAction : YoYo Games.Audio.Stop_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 764C0A90
-/// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "IntroScreenMusic"
-
-
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 54F215DF
