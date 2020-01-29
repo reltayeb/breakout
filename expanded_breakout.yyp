@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "21dd2f8d-e8fa-47c0-9a4a-e7276b191d9c",
-            "Value": {
-                "id": "0b576ce2-8255-4229-b970-2bd79dca3d59",
-                "resourcePath": "objects\/obj_control2\/obj_control2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "23be5d69-3bfc-4554-812c-7c292d50cfa3",
             "Value": {
                 "id": "60a8c1e7-cc77-4955-8d11-1e023182b91b",
@@ -492,14 +484,6 @@
                 "id": "c054cbb0-1742-4cfb-a4cd-52e035e510e5",
                 "resourcePath": "sounds\/sd_select\/sd_select.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "69b307da-c576-4eae-8fcd-1308f61a3a65",
-            "Value": {
-                "id": "5bd4a871-27f8-42f0-95d3-b5e3e97850f8",
-                "resourcePath": "objects\/obj_control5\/obj_control5.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -879,14 +863,6 @@
             }
         },
         {
-            "Key": "b8d5d037-88b4-41a8-8209-75afcee677e5",
-            "Value": {
-                "id": "4b3c5928-2340-4a03-81b9-a6da7b630593",
-                "resourcePath": "objects\\obj_ball2\\obj_ball2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ba676ded-71c9-4e62-a942-b9d0e0ca5acd",
             "Value": {
                 "id": "b0a2a8fa-a847-44c1-8708-dd3ad127285e",
@@ -1039,14 +1015,6 @@
             }
         },
         {
-            "Key": "d3364c14-1034-4379-beab-0e309b1a7d9e",
-            "Value": {
-                "id": "9791858d-2606-431e-820f-a5601129b4df",
-                "resourcePath": "objects\/obj_control4\/obj_control4.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "d727d7c6-6e58-403b-bc4f-37f7054d8707",
             "Value": {
                 "id": "ef29a39d-6379-434c-b840-295c2e0be428",
@@ -1140,14 +1108,6 @@
                 "id": "6fa81b49-df52-474e-a919-14a2448420de",
                 "resourcePath": "views\/d7bc6dc7-07b9-413b-93de-9c32f8afae05-room.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "edfa7724-9521-4eb9-a1f7-c7eea45ecc75",
-            "Value": {
-                "id": "a6a74385-b7ee-4342-9a75-d34a2083de7f",
-                "resourcePath": "objects\/obj_control3\/obj_control3.yy",
-                "resourceType": "GMObject"
             }
         },
         {

@@ -14,7 +14,7 @@ if(bbox_bottom > room_height){
 		audio_play_sound(sd_deathMEME, 0, 0);
 	
 	if(global.player_lives <= 0){
-		obj_control5.gameover = true;
+		obj_control.gameover = true;
 		if(global.player_score > global.high_score){
 			global.high_score = global.player_score
 		}
