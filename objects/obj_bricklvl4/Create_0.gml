@@ -1,0 +1,1 @@
+image_blend = choose(c_ltgray, c_silver, c_gray);

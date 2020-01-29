@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "3df52012-9067-4a4e-a227-d1f2162a5b67",
+            "Value": {
+                "id": "aeca2841-f22b-42fd-a7ee-f078e4277bfd",
+                "resourcePath": "objects\\obj_bricklvl4\\obj_bricklvl4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4069239d-7b6a-433d-a77c-135d70aadebb",
             "Value": {
                 "id": "b74b1be2-7a90-42e3-b102-7cc0788fb3fa",
