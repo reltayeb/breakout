@@ -26,6 +26,6 @@ if(bbox_bottom > room_height){
 	
 
 	
-	instance_create_layer(xstart, ystart, "Instances", obj_ballMEME);
+	instance_create_layer(xstart, ystart, "Instances_1", obj_ballMEME);
 }
 }
