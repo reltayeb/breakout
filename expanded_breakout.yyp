@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "17cbd869-3cec-4111-b04a-11c58a427b1d",
+            "Value": {
+                "id": "a4d70687-4bbc-4a61-aaf7-3d35cdbb0c46",
+                "resourcePath": "objects\/obj_missileENEMYmeme\/obj_missileENEMYmeme.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19740b52-97f4-44f4-88e1-5e35787c923a",
             "Value": {
                 "id": "d3b984c9-251f-4902-b618-6ae4d3de8e02",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "570df43e-3813-4377-a610-04f40a041198",
+            "Value": {
+                "id": "5160036e-cb49-4e7a-b524-2b0b951cec47",
+                "resourcePath": "objects\/obj_ballMEME\/obj_ballMEME.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "584e7935-9b4e-467e-9b00-33b94ee7c77a",
             "Value": {
                 "id": "2dc68490-e2ac-496e-9f73-386415315a90",
@@ -363,6 +379,14 @@
             "Value": {
                 "id": "072646a7-6e55-47fe-85ca-5a3a5c17b56d",
                 "resourcePath": "objects\/obj_missile_destroy\/obj_missile_destroy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6bbbd986-e69c-4000-acbc-64b9727a1d9e",
+            "Value": {
+                "id": "2e2a3103-e5fe-4bb3-9bf3-618e0c18cf94",
+                "resourcePath": "objects\/OBJ_MISSILE_MAKERmeme\/OBJ_MISSILE_MAKERmeme.yy",
                 "resourceType": "GMObject"
             }
         },
