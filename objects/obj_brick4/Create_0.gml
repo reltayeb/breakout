@@ -1,1 +1,1 @@
-image_blend = choose(c_ltgray);
+image_blend = choose(c_lime);

@@ -1,1 +1,1 @@
-image_blend = choose(c_aqua);
+image_blend = choose(c_ltgray);
